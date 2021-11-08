@@ -1,1 +1,1 @@
-# aoc-2021
+https://github.com/cygni/aoc_example
